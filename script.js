@@ -60,7 +60,7 @@ let sl = [99,88,77,66,55,44,33,22,11]
 let newnum = sl.slice(2,8)
 console.log(newnum)
 
-//Array methoda --------loops n all
+//Array methoda--------loops n all
 
 let p = [3, 5, 1, 2, 4]
 
